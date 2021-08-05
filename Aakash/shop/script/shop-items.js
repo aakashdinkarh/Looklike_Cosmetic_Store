@@ -1,135 +1,135 @@
 var itemList = [
   (item1 = {
-    img1: "/Aakash/shop/img/shop02.jpg",
-    img2: "/Aakash/shop/img/shop08.jpg",
+    img1: "../img/shop02.jpg",
+    img2: "../img/shop08.jpg",
     rating: 0,
     name: "Asperiores Repellat",
     old_cost: null,
     cost: "£56.00",
   }),
   (item2 = {
-    img1: "/Aakash/shop/img/shop16.jpg",
-    img2: "/Aakash/shop/img/shop14.jpg",
+    img1: "../img/shop16.jpg",
+    img2: "../img/shop14.jpg",
     rating: 0,
     name: "Blanditiis Praesentium",
     old_cost: "£100.00",
     cost: "£90.00",
   }),
   (item3 = {
-    img1: "/Aakash/shop/img/shop05.jpg",
-    img2: "/Aakash/shop/img/shop09.jpg",
+    img1: "../img/shop05.jpg",
+    img2: "../img/shop09.jpg",
     rating: 2,
     name: "Consequuntur Magni",
     old_cost: "£115.00",
     cost: "£102.00",
   }),
   (item4 = {
-    img1: "/Aakash/shop/img/shop06.jpg",
-    img2: "/Aakash/shop/img/shop02.jpg",
+    img1: "../img/shop06.jpg",
+    img2: "../img/shop02.jpg",
     rating: 2,
     name: "Cras Eget Augue",
     old_cost: null,
     cost: "£110.00",
   }),
   (item5 = {
-    img1: "/Aakash/shop/img/shop17.jpg",
-    img2: "/Aakash/shop/img/shop16.jpg",
+    img1: "../img/shop17.jpg",
+    img2: "../img/shop16.jpg",
     rating: 0,
     name: "Doloremque Laudantium",
     old_cost: "£120.00",
     cost: "£107.00",
   }),
   (item6 = {
-    img1: "/Aakash/shop/img/shop08.jpg",
-    img2: "/Aakash/shop/img/shop10.jpg",
+    img1: "../img/shop08.jpg",
+    img2: "../img/shop10.jpg",
     rating: 4,
     name: "Ipsum Amet Dummy",
     old_cost: "£95.00",
     cost: "£77.00",
   }),
   (item7 = {
-    img1: "/Aakash/shop/img/shop15.jpg",
-    img2: "/Aakash/shop/img/shop13.jpg",
+    img1: "../img/shop15.jpg",
+    img2: "../img/shop13.jpg",
     rating: 2,
     name: "Lorem Ipsum",
     old_cost: null,
     cost: "£98.00",
   }),
   (item8 = {
-    img1: "/Aakash/shop/img/shop12.jpg",
-    img2: "/Aakash/shop/img/shop06.jpg",
+    img1: "../img/shop12.jpg",
+    img2: "../img/shop06.jpg",
     rating: 4,
     name: "Mauris Eget Diam",
     old_cost: null,
     cost: "£80.00",
   }),
   (item9 = {
-    img1: "/Aakash/shop/img/shop13.jpg",
-    img2: "/Aakash/shop/img/shop10.jpg",
+    img1: "../img/shop13.jpg",
+    img2: "../img/shop10.jpg",
     rating: 3,
     name: "Molestiae Consequatur",
     old_cost: null,
     cost: "£88.00",
   }),
   (item10 = {
-    img1: "/Aakash/shop/img/shop01.jpg",
-    img2: "/Aakash/shop/img/shop12.jpg",
+    img1: "../img/shop01.jpg",
+    img2: "../img/shop12.jpg",
     rating: 3,
     name: "Nam Libero Tempore",
     old_cost: null,
     cost: "£88.00",
   }),
   (item11 = {
-    img1: "/Aakash/shop/img/shop11.jpg",
-    img2: "/Aakash/shop/img/shop07.jpg",
+    img1: "../img/shop11.jpg",
+    img2: "../img/shop07.jpg",
     rating: 2,
     name: "Nam Mattis Eros",
     old_cost: null,
     cost: "£80.00",
   }),
   (item12 = {
-    img1: "/Aakash/shop/img/shop04.jpg",
-    img2: "/Aakash/shop/img/shop15.jpg",
+    img1: "../img/shop04.jpg",
+    img2: "../img/shop15.jpg",
     rating: 0,
     name: "Nemo Enim Ipsam",
     old_cost: null,
     cost: "£70.00",
   }),
   (item13 = {
-    img1: "/Aakash/shop/img/shop14.jpg",
-    img2: "/Aakash/shop/img/shop05.jpg",
+    img1: "../img/shop14.jpg",
+    img2: "../img/shop05.jpg",
     rating: 3,
     name: "Quisque Sed Diam",
     old_cost: null,
     cost: "£35.00",
   }),
   (item14 = {
-    img1: "/Aakash/shop/img/shop03.jpg",
-    img2: "/Aakash/shop/img/shop11.jpg",
+    img1: "../img/shop03.jpg",
+    img2: "../img/shop11.jpg",
     rating: 1,
     name: "Sapiente Delectus",
     old_cost: "£85.00",
     cost: "£68.00",
   }),
   (item15 = {
-    img1: "/Aakash/shop/img/shop10.jpg",
-    img2: "/Aakash/shop/img/shop04.jpg",
+    img1: "../img/shop10.jpg",
+    img2: "../img/shop04.jpg",
     rating: 5,
     name: "Specimen Book",
     old_cost: null,
     cost: "£100.00",
   }),
   (item16 = {
-    img1: "/Aakash/shop/img/shop07.jpg",
-    img2: "/Aakash/shop/img/shop03.jpg",
+    img1: "../img/shop07.jpg",
+    img2: "../img/shop03.jpg",
     rating: 0,
     name: "Totam Rem Aperiam",
     old_cost: null,
     cost: "£150.00",
   }),
   (item17 = {
-    img1: "/Aakash/shop/img/shop09.jpg",
-    img2: "/Aakash/shop/img/shop16.jpg",
+    img1: "../img/shop09.jpg",
+    img2: "../img/shop16.jpg",
     rating: 5,
     name: "Voluptatem Accusantium",
     old_cost: null,
@@ -270,10 +270,10 @@ function makeItem(
     if (i != 5) star += `<span class="fa fa-star"></span>`;
   }
   prod.outerHTML = `<div class="prod rel">
-    <a href="/Aakash/shop/products/${item.name}.html"><img class="img1" src="${
+    <a href="../products/${item.name}.html"><img class="img1" src="${
     item.img1
   }" alt=""/></a>
-    <a href="/Aakash/shop/products/${item.name}.html"><img class="img2" src="${
+    <a href="../products/${item.name}.html"><img class="img2" src="${
     item.img2
   }" alt=""/></a>
     <div class="prod-btn flex abs">
@@ -285,7 +285,7 @@ function makeItem(
     <div class="star-container">
     ${star}
     </div>
-    <p><a href="/Aakash/shop/products/${item.name}.html">${item.name}</a></p>
+    <p><a href="../products/${item.name}.html">${item.name}</a></p>
     ${temp}
     <span class="prod-cost">${item.cost}</span>
   </div>`;
@@ -309,8 +309,8 @@ function makeWishItem(item) {
   }
 
   prod.outerHTML = `<div style="border:1px solid #eee" class="prod rel">
-    <a href="/Aakash/shop/products/${item.name}.html"><img class="img1" src="${item.img1}" alt=""/></a>
-    <a href="/Aakash/shop/products/${item.name}.html"><img class="img2" src="${item.img2}" alt=""/></a>
+    <a href="../products/${item.name}.html"><img class="img1" src="${item.img1}" alt=""/></a>
+    <a href="../products/${item.name}.html"><img class="img2" src="${item.img2}" alt=""/></a>
     <div class="prod-btn flex abs">
       <button title="Add to Cart" class="btn fa fa-cart-plus"></button>
       <button class="btn fa fa-arrows-alt"></button>
@@ -318,7 +318,7 @@ function makeWishItem(item) {
     <div class="star-container">
     ${star}
     </div>
-    <p><a href="/Aakash/shop/products/${item.name}.html">${item.name}</a></p>
+    <p><a href="../products/${item.name}.html">${item.name}</a></p>
     ${temp}
     <span class="prod-cost">${item.cost}</span></br></br>
     <div style="text-align:center"><button class='btn wishRemove'>Remove</button></div>
