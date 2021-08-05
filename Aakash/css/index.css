@@ -14,7 +14,6 @@
 }
 .next,
 .prev {
-  opacity: 0;
   border-radius: 50%;
   padding: 10px 13px;
   top: 50%;
@@ -23,16 +22,6 @@
   background: rgba(128, 53, 76);
   color: white;
   transition: all 0.4s;
-}
-.slideshow:hover .prev,
-.slideshow:hover .next,
-.shop:hover .prev,
-.shop:hover .next,
-.new-p:hover .prev,
-.new-p:hover .next,
-.brand-slide:hover .prev,
-.brand-slide:hover .next {
-  opacity: 1;
 }
 .next {
   right: 5%;
