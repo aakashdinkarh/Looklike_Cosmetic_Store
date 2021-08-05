@@ -305,7 +305,6 @@ function makeWishItem(item) {
     <a href="Aakash/shop/products/${item.name}.html"><img class="img2" src="${item.img2}" alt=""/></a>
     <div class="prod-btn flex abs">
       <button title="Add to Cart" class="btn fa fa-cart-plus"></button>
-      <button class="btn fa fa-arrows-alt"></button>
     </div>
     <div class="star-container">
     ${star}
@@ -313,6 +312,6 @@ function makeWishItem(item) {
     <p><a href="Aakash/shop/products/${item.name}.html">${item.name}</a></p>
     ${temp}
     <span class="prod-cost">${item.cost}</span><br/><br/>
-    <div style="text-align:center"><button class='btn wishRemove'>Remove</button></div>
+    <div style="text-align:center"><button class='btn wishRemove'>Remove</button></div><div style="height:5px"></div>
   </div>`;
 }
