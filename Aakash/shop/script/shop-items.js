@@ -312,7 +312,7 @@ function makeWishItem(item) {
     </div>
     <p><a href="Aakash/shop/products/${item.name}.html">${item.name}</a></p>
     ${temp}
-    <span class="prod-cost">${item.cost}</span></br></br>
+    <span class="prod-cost">${item.cost}</span><br/><br/>
     <div style="text-align:center"><button class='btn wishRemove'>Remove</button></div>
   </div>`;
 }
